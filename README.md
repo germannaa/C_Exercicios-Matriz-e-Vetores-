@@ -1,2 +1,1 @@
-# Exercicios-Matriz-e-Vetores-
-Em C
+# Exercicios-Matriz-e-vetores-em-C
